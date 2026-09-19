@@ -1,5 +1,6 @@
 streamlit
 langchain-openai
+langchain-core
 pandas
 numpy
 sqlparse
